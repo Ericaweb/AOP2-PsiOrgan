@@ -1,4 +1,4 @@
-# AOP2-Psicologia Organizacional
+# AOP2 - Psicologia Organizacional
 
  Atividade colaborativa de psicologia organizacional.
  O exercício pedia para fazermos a realização de um mapa mental em um app.
